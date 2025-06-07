@@ -1,1 +1,49 @@
+STUDENT ID              - SBAP0029637
+STUDENT NAME            - AKKALA HARATHI
+GROUP                   - B.COM(COMPUTER\APPLICATION)
+LEARNING TRACK          - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILES LINK - https://www.salesforce.com/trailblazer/spk50hcgvuk6ubhvbh
 
+PROJECT NAME            - LEASE MANAGEMENT 
+ORG  USERNAME           - akkalaharathi416@agentforce.com
+PASSWORD                - Gayatri@123
+
+STUDENT ID              -SBAP0029710
+STUDENT NAME            - THOTHUKAREDDYSPANDANA
+GROUP                   - B.COM(COMPUTER\APPLICATION)
+LEARNING TRACK          - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILES LINK - https://www.salesforce.com/trailblazer/ip7xtxrhih87y9lkqb
+
+PROJECT NAME            - LEASE MANAGEMENT 
+ORG USERNAME            - spandanathothuka29928@agentforce.com
+PASSWORD                - Gayatri@123
+
+STUDENT ID              -SBAP0029713
+STUDENT NAME            - YANDAPALLI TEJASWINI
+GROUP                   - B.COM(COMPUTER\APPLICATION)
+LEARNING TRACK          - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILES LINK - https://www.salesforce.com/trailblazer/y8ygy3vlnwbpi26tsn
+
+PROJECT NAME            - LEASE MANAGEMENT 
+ORG USERNAME            - 
+PASSWORD                - Gayatri@123
+
+STUDENT ID              -SBAP0029657
+STUDENT NAME            - KAPPALA.SARANYA
+GROUP                   - B.COM(COMPUTER\APPLICATION)
+LEARNING TRACK          - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILES LINK - https://www.salesforce.com/trailblazer/j3tebnreee9ld2xl0v
+
+PROJECT NAME            - LEASE MANAGEMENT 
+ORG USERNAME            - 
+PASSWORD                - Gayatri@123
+
+STUDENT ID              - SBAP0029643
+STUDENT NAME            - CHINNARAMANNAGARI DEEKSHITHA
+GROUP                   - B.COM(COMPUTER\APPLICATION)
+LEARNING TRACK          - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILES LINK - https://www.salesforce.com/trailblazer/ubgqloaf7goaqsshgp
+
+PROJECT NAME            - LEASE MANAGEMENT 
+ORG USERNAME            - 
+PASSWORD                - Gayatri@123
