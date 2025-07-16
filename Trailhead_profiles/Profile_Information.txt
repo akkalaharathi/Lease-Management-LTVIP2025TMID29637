@@ -26,7 +26,7 @@ TRAILHEAD PROFILES LINK - https://www.salesforce.com/trailblazer/y8ygy3vlnwbpi26
 
 PROJECT NAME            - LEASE MANAGEMENT 
 ORG USERNAME            - yandapallytejaswini993@agentforce.com
-PASSWORD                - Gayatri@123
+PASSWORD                - ammananna9
 
 STUDENT ID              -SBAP0029657
 STUDENT NAME            - KAPPALA.SARANYA
